@@ -6,6 +6,7 @@ body {
   align-items: flex-start;
   min-height: 100vh;
   padding: 30px;
+  bgcolor:#333;
 }
 
 .form-container {
@@ -143,4 +144,5 @@ textarea {
   max-height: 100px;
   border: 1px solid #ccc;
   border-radius: 6px;
+
 }
